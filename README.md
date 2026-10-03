@@ -628,7 +628,7 @@ Group applications into higher-level categories for aggregate reporting.
 ## Requirements
 
 - **Operating System**: Windows (uses Win32 APIs for window tracking)
-- **.NET Runtime**: .NET 9.0 or higher
+- **.NET Runtime**: .NET 10.0 or higher
 - **Excel Viewer**: Microsoft Excel or compatible spreadsheet application
 
 ### Dependencies
